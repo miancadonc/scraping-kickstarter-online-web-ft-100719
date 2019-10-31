@@ -26,8 +26,6 @@ def create_project_hash
   
   projects
   
-  #binding.pry
-  
 end
 
 create_project_hash
